@@ -12,3 +12,6 @@ short_description: Script to export linguistic corrections from Excel to Word
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+The script can be used from here:
+https://huggingface.co/spaces/jperez-hug/corrections
